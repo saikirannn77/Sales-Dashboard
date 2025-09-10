@@ -73,6 +73,8 @@ Slicers & Filters
 
 Data Visualization Techniques
 
+Data Cleaning with Power Query
+
 ## 📈 Insights from Dashboard
 
 California is the most profitable state.
