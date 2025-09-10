@@ -1,5 +1,4 @@
 # Sales-Dashboard
-This project contains an interactive Sales Dashboard built in Excel. It helps in analyzing profitability, product performance, customer segments, and shipping modes with dynamic slicers and visualizations.
 ## 📊 Sales Dashboard
 This project contains an interactive Sales Dashboard built in Excel. It helps in analyzing profitability, product performance, customer segments, and shipping modes with dynamic slicers and visualizations.
 
